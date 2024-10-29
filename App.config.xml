@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<appSettings>
+		<add key="HueThresholdH" value="20" />
+		<add key="HueThresholdL" value="0" />
+		<add key="SaturationThresholdH" value="100" />
+		<add key="SaturationThresholdL" value="30" />
+		<add key="ValueThresholdH" value="100" />
+		<add key="ValueThresholdL" value="15" />
+		<add key="RemovingShapeSize" value="5" />
+		<add key="FillingShapeSize" value="15" />
+		<add key="FeatureWidth" value="45" />
+		<add key="FocalLength" value="3.8" />
+		<add key="PixelToMilemetersCoefficient" value="0.00584210526" />
+		<add key="CameraMatrix00" value="453.08463027168779" />
+		<add key="CameraMatrix01" value="0" />
+		<add key="CameraMatrix02" value="299.31819451279819" />
+		<add key="CameraMatrix10" value="0" />
+		<add key="CameraMatrix11" value="451.6553142872001" />
+		<add key="CameraMatrix12" value="244.114196390533" />
+		<add key="CameraMatrix20" value="0" />
+		<add key="CameraMatrix21" value="0" />
+		<add key="CameraMatrix22" value="1" />
+		<add key="DistCoeffs0" value="-0.13420040967885613" />
+		<add key="DistCoeffs1" value="0.079967892070645419" />
+		<add key="DistCoeffs2" value="0.0029490255986522693" />
+		<add key="DistCoeffs3" value="0.0081203566527775339" />
+		<add key="DistCoeffs4" value="-0.061543489987792022" />
+	</appSettings>
+</configuration>
